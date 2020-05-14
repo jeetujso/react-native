@@ -1,0 +1,17 @@
+{
+  "name": "rnfirst",
+  "displayName": "rnfirst",
+  "expo": {
+    "name": "rnfirst",
+    "slug": "rnfirst",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
